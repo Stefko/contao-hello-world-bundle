@@ -2,7 +2,7 @@
 
 
 
-namespace Stefko\SkeletonBundle\DependencyInjection;
+namespace Stefko\ContaoHelloWorldBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
