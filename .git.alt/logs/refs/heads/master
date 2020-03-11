@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 b53aad2bec9fa1a059ded0735bbade687bd9cb6e Stefan Kohler <stefan.kohler@trilobit.de> 1583935369 +0100	clone: from /home/stefan/.cache/composer/vcs/https---github.com-stefko-contao-hello-world-bundle.git/
-b53aad2bec9fa1a059ded0735bbade687bd9cb6e 7fc0331c809982f0c96307aed44b9183ed0be91f Stefan Kohler <stefan.kohler@trilobit.de> 1583935627 +0100	reset: moving to 7fc0331c809982f0c96307aed44b9183ed0be91f
-7fc0331c809982f0c96307aed44b9183ed0be91f 730518ba089ea49c6d11271fcf97796b27b40273 Stefan Kohler <stefan.kohler@trilobit.de> 1583936604 +0100	commit: Create hello-world frontend module

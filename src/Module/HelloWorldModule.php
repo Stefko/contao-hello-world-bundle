@@ -36,6 +36,15 @@ class HelloWorldModule extends \Module
      */
     protected function compile()
     {
-        $this->Template->message = 'Hello World';
+        $this->Template->message = 'Hello Woooorld';
     }
+
+//    protected function compile()
+//    {
+//        $messageGenerator = \Contao\System::getContainer()->get('acme.contao_hello_world_bundle.message_generator');
+//
+//        $message = $messageGenerator->sayHelloTo('World');
+//
+//        $this->Template->message = $message;
+//    }
 }
